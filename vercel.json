@@ -1,6 +1,14 @@
 {
   "redirects": [
     {
+      "source": "/",
+      "destination": "https://leandrolinares.com"
+    },
+    {
+      "source": "/feed.xml",
+      "destination": "https://leandrolinares.com/feed.xml"
+    },
+    {
       "source": "/articles/a-complete-guide-to-setting-up-retropie",
       "destination": "https://leandrolinares.com/blog/setting-up-retropie"
     },
