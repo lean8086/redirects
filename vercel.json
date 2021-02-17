@@ -1,5 +1,5 @@
 {
   "redirects": [
-    { "source": "/articles/a-complete-guide-to-setting-up-retropie/", "destination": "leandrolinares.com/blog/setting-up-retropie" }
+    { "source": "/articles/a-complete-guide-to-setting-up-retropie", "destination": "https://leandrolinares.com/blog/setting-up-retropie" }
   ]
 }
