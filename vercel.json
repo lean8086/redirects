@@ -79,6 +79,78 @@
     {
       "source": "/articles/using-an-emoji-as-favicon-with-svg",
       "destination": "https://leandrolinares.com/blog/using-emoji-as-favicon"
+    },
+    {
+      "source": "/articles/a-complete-guide-to-setting-up-retropie/",
+      "destination": "https://leandrolinares.com/blog/setting-up-retropie"
+    },
+    {
+      "source": "/articles/incremental-dom/",
+      "destination": "https://leandrolinares.com/blog/incremental-dom"
+    },
+    {
+      "source": "/articles/background-offset-en-css/",
+      "destination": "https://leandrolinares.com/blog/background-offset-css"
+    },
+    {
+      "source": "/articles/multi-device-layout-patterns/",
+      "destination": "https://leandrolinares.com/blog/multi-device-layout-patterns"
+    },
+    {
+      "source": "/articles/building-an-arduino-midi-controller/",
+      "destination": "https://leandrolinares.com/blog/arduino-midi-controller"
+    },
+    {
+      "source": "/articles/node-101-dependencies-vs-devdependencies/",
+      "destination": "https://leandrolinares.com/blog/node-dependencies-vs-devdependencies"
+    },
+    {
+      "source": "/articles/calidad-vs-velocidad-en-el-desarrollo/",
+      "destination": "https://leandrolinares.com/blog/calidad-vs-velocidad-desarrollo"
+    },
+    {
+      "source": "/articles/post-processing-3d-prints/",
+      "destination": "https://leandrolinares.com/blog/post-processing-3d-prints"
+    },
+    {
+      "source": "/articles/card-pattern/",
+      "destination": "https://leandrolinares.com/blog/card-pattern"
+    },
+    {
+      "source": "/articles/protocolo-http2/",
+      "destination": "https://leandrolinares.com/blog/protocolo-http2"
+    },
+    {
+      "source": "/articles/dudas-comunes-de-microdata/",
+      "destination": "https://leandrolinares.com/blog/dudas-comunes-microdata"
+    },
+    {
+      "source": "/articles/single-page-apps-y-como-mejorar-la-ux-parte-1/",
+      "destination": "https://leandrolinares.com/blog/single-page-apps-mejorar-ux"
+    },
+    {
+      "source": "/articles/evitar-redundancia-de-roles-aria/",
+      "destination": "https://leandrolinares.com/blog/evitar-redundancia-roles-aria"
+    },
+    {
+      "source": "/articles/single-page-apps-y-como-mejorar-la-ux-parte-2/",
+      "destination": "https://leandrolinares.com/blog/single-page-apps-mejorar-ux-2"
+    },
+    {
+      "source": "/articles/how-i-built-an-arcade-machine-from-scratch/",
+      "destination": "https://leandrolinares.com/blog/arcade-machine-build"
+    },
+    {
+      "source": "/articles/imagenes-retina-en-tablets-con-hidpi/",
+      "destination": "https://leandrolinares.com/blog/imagenes-retina-hidpi"
+    },
+    {
+      "source": "/articles/velocidad-percibida-por-el-usuario/",
+      "destination": "https://leandrolinares.com/blog/velocidad-percibida-por-el-usuario"
+    },
+    {
+      "source": "/articles/using-an-emoji-as-favicon-with-svg/",
+      "destination": "https://leandrolinares.com/blog/using-emoji-as-favicon"
     }
   ]
 }
